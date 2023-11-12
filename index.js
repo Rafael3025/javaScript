@@ -10,8 +10,8 @@ let resultado2 = somarNumeros(99,100, 50);
 
 console.log("Numero abaixo são de soma");
 
-console.log(`Seu Numero é: ${resultado}`);
-console.log(`Seu Numero é: ${resultado2}`);
+console.log(`Soma dos Numeros é: ${resultado}`);
+console.log(`Soma dos Numeros é: ${resultado2}`);
 
 // fim da soma de numeros com função
 
@@ -28,8 +28,8 @@ let resultado4 = subtraiNumeros(100 , 20 , 10);
 
 console.log("Numeros abaixo são de Subtrair");
 
-console.log(`Seu Numero é ${resultado3}`);
-console.log(`Seu Numero é ${resultado4}`);
+console.log(`Subtração dos Numeros é: ${resultado3}`);
+console.log(`Subtração dos Numeros é: ${resultado4}`);
 
 
 //fim de subtração de numeros com função
@@ -47,8 +47,8 @@ let resultado6 = multiplicacaoNumeros(100, 40 , 25);
 
 console.log("Numeros abaixo são de multriplicação");
 
-console.log(`Seu Numero é ${resultado5}`);
-console.log(`Seu Numero é ${resultado6}`);
+console.log(`Multrplicação dos Numeros é: ${resultado5}`);
+console.log(`Multrplicação dos Numeros é: ${resultado6}`);
 
 //fim de multiplicação com função
 
@@ -66,8 +66,8 @@ let resultado8 = divisaoNumeros(200 , 50 , 20  );
 
 console.log("Numeros abaixo são de Divisão");
 
-console.log(`Seu Numero é ${resultado7}`);
-console.log(`Seu Numero é ${resultado8}`);
+console.log(`Divisão dos Numeros é: ${resultado7}`);
+console.log(`Divisão dos Numeros é: ${resultado8}`);
 
 // fim de Divisão com função
 
